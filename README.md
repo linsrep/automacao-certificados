@@ -10,8 +10,9 @@
 
 ## ☕ Sobre o projeto?
 
-- Inicialmente, terá uma imagem em .jpg que precisa ser mapeada antes para encontrar os pontos X e Y da posição dos campos a serem preenchidos. 
+- Inicialmente, terá uma imagem em .jpg que precisa ser mapeada antes para encontrar os pontos X e Y da posição dos campos a serem preenchidos.
 
+> [!TIP]
 > Dica: Use o paint para ver as coordenadas da imagem.
 
 ## 💻 Pré-requisitos
@@ -27,7 +28,6 @@
 python -m venv "NOME_DO_SEU_AMBIENTE"
 ```
 
-> [!TIP]
 > Pode ser qualquer nome. Ex: teste, seu nome...enfim
 
 - Depois, ativar o seu ambiente com o comando abaixo
