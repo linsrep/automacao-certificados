@@ -1,4 +1,4 @@
-# Automação de Certificados feito em PyTHON
+# Automação de Certificados feito em PYTHON
 <span align="center">
 
 [<img alt="Python" src="https://img.shields.io/static/v1?label=PYTHON&message=Latest&color=FF5800&labelColor=383838">](https://python.org/)
