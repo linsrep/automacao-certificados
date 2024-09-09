@@ -1,11 +1,15 @@
 # Automação de Certificados feito em PyTHON
+<span align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/linsrep/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/linsrep/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/linsrep/README-template?style=for-the-badge)
+[<img alt="Python" src="https://img.shields.io/static/v1?label=PYTHON&message=Latest&color=FF5800&labelColor=383838">](https://python.org/)
+[<img alt="PILLOW" src="https://img.shields.io/static/v1?label=PILLOW&message=Latest&color=FF5800&labelColor=383838">](https://pypi.org/project/pillow/)
+[<img alt="OPEN PY XL" src="https://img.shields.io/static/v1?label=OPENPYXL&message=Latest&color=FF5800&labelColor=383838">](https://openpyxl.readthedocs.io/en/stable/)
+
+</span>
 
 <img src="./assets/images/certificado_padrao.jpg" alt="Certificado Exemplo">
 
+> [!NOTE]
 > Aplicação feita como estudo de Python para automatizar certificados de conclusão de cursos.
 
 ## ☕ Sobre o projeto?
@@ -32,19 +36,19 @@ python -m venv "NOME_DO_SEU_AMBIENTE"
 
 - Depois, ativar o seu ambiente com o comando abaixo
 
-```bash
+```sh
 "NOME_DO_SEU_AMBIENTE"\Scripts\activate 
 ```
 aparecerá desta forma:
 
-```bash
+```sh
 ("NOME_DO_SEU_AMBIENTE") PS C:\local_da_pasta_que_vocÊ_está>
 ```
 - Istalar as dependências utilizando o comando abaixo:
   - Pillow: Utilizado para sobreposição de texto
   - OpenPyXL: Utilizado para ler as planilhas
 
-```bash
+```sh
 pip install pillow openpyxl
 ```
 
